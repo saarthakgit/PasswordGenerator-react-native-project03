@@ -12,6 +12,11 @@
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		7D0256A737B049C1948DE5A0 /* Jacquard12Charted-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DF46DA153AA8417295E097ED /* Jacquard12Charted-Regular.ttf */; };
+		457BBDF029D74A5B84D5FA3B /* Tiny5Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5EDB26ACDC994267ACA9C9AF /* Tiny5Regular.ttf */; };
+		29044C30FF2A4E769A467616 /* PixelifySans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 57AB7ACCD5FC4EA2A51C7D96 /* PixelifySans-Bold.ttf */; };
+		32D58E97D8604DB09AF5AD02 /* PixelifySans-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D14A8588D844E89B7CEFBDA /* PixelifySans-Medium.ttf */; };
+		13E3714043744CDF90DA23FA /* PixelifySans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5E838C37BE9E4971AF5ECC0E /* PixelifySans-Regular.ttf */; };
+		313E3B693EEE4F4988F6E2E6 /* PixelifySans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 71F1C8F267F84EC8BD345749 /* PixelifySans-SemiBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +31,11 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Password/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		DF46DA153AA8417295E097ED /* Jacquard12Charted-Regular.ttf */ = {isa = PBXFileReference; name = "Jacquard12Charted-Regular.ttf"; path = "../assets/fonts/Jacquard12Charted-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5EDB26ACDC994267ACA9C9AF /* Tiny5Regular.ttf */ = {isa = PBXFileReference; name = "Tiny5Regular.ttf"; path = "../assets/fonts/Tiny5Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		57AB7ACCD5FC4EA2A51C7D96 /* PixelifySans-Bold.ttf */ = {isa = PBXFileReference; name = "PixelifySans-Bold.ttf"; path = "../assets/fonts/PixelifySans-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3D14A8588D844E89B7CEFBDA /* PixelifySans-Medium.ttf */ = {isa = PBXFileReference; name = "PixelifySans-Medium.ttf"; path = "../assets/fonts/PixelifySans-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5E838C37BE9E4971AF5ECC0E /* PixelifySans-Regular.ttf */ = {isa = PBXFileReference; name = "PixelifySans-Regular.ttf"; path = "../assets/fonts/PixelifySans-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		71F1C8F267F84EC8BD345749 /* PixelifySans-SemiBold.ttf */ = {isa = PBXFileReference; name = "PixelifySans-SemiBold.ttf"; path = "../assets/fonts/PixelifySans-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +114,11 @@
 			isa = "PBXGroup";
 			children = (
 				DF46DA153AA8417295E097ED /* Jacquard12Charted-Regular.ttf */,
+				5EDB26ACDC994267ACA9C9AF /* Tiny5Regular.ttf */,
+				57AB7ACCD5FC4EA2A51C7D96 /* PixelifySans-Bold.ttf */,
+				3D14A8588D844E89B7CEFBDA /* PixelifySans-Medium.ttf */,
+				5E838C37BE9E4971AF5ECC0E /* PixelifySans-Regular.ttf */,
+				71F1C8F267F84EC8BD345749 /* PixelifySans-SemiBold.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -172,6 +187,11 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				7D0256A737B049C1948DE5A0 /* Jacquard12Charted-Regular.ttf in Resources */,
+				457BBDF029D74A5B84D5FA3B /* Tiny5Regular.ttf in Resources */,
+				29044C30FF2A4E769A467616 /* PixelifySans-Bold.ttf in Resources */,
+				32D58E97D8604DB09AF5AD02 /* PixelifySans-Medium.ttf in Resources */,
+				13E3714043744CDF90DA23FA /* PixelifySans-Regular.ttf in Resources */,
+				313E3B693EEE4F4988F6E2E6 /* PixelifySans-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

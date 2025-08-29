@@ -50,6 +50,11 @@
 	<key>UIAppFonts</key>
 	<array>
 		<string>Jacquard12Charted-Regular.ttf</string>
+		<string>Tiny5Regular.ttf</string>
+		<string>PixelifySans-Bold.ttf</string>
+		<string>PixelifySans-Medium.ttf</string>
+		<string>PixelifySans-Regular.ttf</string>
+		<string>PixelifySans-SemiBold.ttf</string>
 	</array>
 </dict>
 </plist>
