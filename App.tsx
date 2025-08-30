@@ -144,7 +144,7 @@ const App = () => {
           <TouchableOpacity style = {styles.resetbtn} onPress={()=>{handleReset();
             resetPassword();
           }}>
-            <Text style = {styles.btnlabel}>Reset Password</Text>
+            <Text style = {styles.btnlabel}>Reset</Text>
           </TouchableOpacity>
          </View>
          </>
@@ -160,7 +160,7 @@ const App = () => {
             <Text style = {{fontSize : 8, color : '#000000'}}> Long Press to Copy </Text>
           <TouchableOpacity style = {styles.resetbtn1} onPress={()=>{resetPassword(); setisPassGenerated(false)
           }}>
-            <Text style = {styles.btnlabel}>Reset Password</Text>
+            <Text style = {styles.btnlabel}>Reset</Text>
           </TouchableOpacity>
           </View>
           </View>
@@ -173,7 +173,7 @@ const App = () => {
             
           <TouchableOpacity style = {styles.resetbtn1} onPress={()=>{resetPassword(); setisPassGenerated(false)
           }}>
-            <Text style = {styles.btnlabel}>Reset Password</Text>
+            <Text style = {styles.btnlabel}>Reset</Text>
           </TouchableOpacity>
           </View>
           </View>
